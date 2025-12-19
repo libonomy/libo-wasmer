@@ -19,13 +19,13 @@ Make sure you have the following installed:
 
 - **RUST**
 
-  Install GO from:
+  Install RUST from:
 
   ```sh
   https://rust-lang.org/tools/install/
   ```
 
-  ⚠️ **Supported GO version:** `0.2`
+  ⚠️ **Supported RUST version:** `0.2`
 
 
 
